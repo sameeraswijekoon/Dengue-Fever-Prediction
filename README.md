@@ -4,6 +4,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sameeraswijekoon/Dengue-Fever-Prediction.git)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10MjCKhOgS6vZIgpwT4n7mwNYSnJQ_COf?usp=sharing)
 
 ## 📊 Executive Summary
 
@@ -15,7 +16,7 @@ This project develops a machine learning-based system to predict dengue fever ou
 - Enable data-driven public health decision making
 - Create an accessible prediction tool for health officials
 
-## 🔬 Technical Implementation
+## 🔬 Technical Implementation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10MjCKhOgS6vZIgpwT4n7mwNYSnJQ_COf?usp=sharing)
 
 ### Data Processing Pipeline
 
@@ -36,7 +37,7 @@ This project develops a machine learning-based system to predict dengue fever ou
    └── Decision Tree alternative
 ```
 
-### 🛠️ Technical Architecture
+### 🛠️ Technical Architecture [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10MjCKhOgS6vZIgpwT4n7mwNYSnJQ_COf?usp=sharing)
 
 #### Core Components
 1. **Data Preprocessing Module**
@@ -56,7 +57,7 @@ This project develops a machine learning-based system to predict dengue fever ou
        return df
    ```
 
-2. **Model Training Pipeline**
+2. **Model Training Pipeline** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10MjCKhOgS6vZIgpwT4n7mwNYSnJQ_COf?usp=sharing)
    ```python
    from sklearn.model_selection import train_test_split
    from sklearn.linear_model import LinearRegression
